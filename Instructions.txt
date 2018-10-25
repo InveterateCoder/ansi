@@ -1,0 +1,13 @@
+move to executables into C:\Windows\System32\, or set path to this folder so console can see it.
+set.txt file is in C:\ProgramData\ansi_text\
+
+ansi - is a console text processor
+ctrl+x exit with prompt to save file
+ctrl+s save changes while editing file
+
+
+bcp - (byte code page) is help tool to print all characters in the specified one byte code page
+
+/? for help
+
+code page identifiers: https://msdn.microsoft.com/en-us/library/windows/desktop/dd317756(v=vs.85).aspx
